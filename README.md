@@ -1,3 +1,4 @@
+![Resume Preview](Resume.png)
 # Aryan Sidhu
 **Keep Trying!**
 
@@ -70,4 +71,4 @@ _B.Sc. Computer Science (Data Analytics & Software Engineering)_
 
 ---
 
-![Resume Preview](Resume.png)
+
